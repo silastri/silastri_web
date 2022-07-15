@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
 
     <!-- Bootstrap CSS -->
     <link
@@ -74,13 +75,8 @@
       class="sticky-top d-flex flex-row navbar navbar-expand-lg navbar-light bg-light"
     >
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          <img
-            src="./images/logo_silastri.png"
-            alt="Logo Silastri"
-            width="300"
-            class="d-inline-block align-text-top"
-          />
+        <a class="navbar-brand" href="index.html">
+          <img src="./images/logo_silastri.png" alt="Logo Silastri" />
         </a>
         <button
           class="navbar-toggler"
@@ -97,23 +93,39 @@
           class="justify-content-end collapse navbar-collapse"
           id="navbarNav"
         >
-          <ul class="navbar-nav">
+          <ul class="nav nav-pills">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#"
+              <a class="nav-link active" aria-current="page" href="index.html"
                 >Beranda</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./../silastri_web/index.html#pendaftaran">Pendaftaran</a>
+              <a class="nav-link" href="index.html#pendaftaran">Pendaftaran</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./../silastri_web/index.html#pelatihan">Pelatihan</a>
+              <a class="nav-link" href="index.html#pelatihan">Pelatihan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./../silastri_web/index.html#tentang">Tentang</a>
+              <a class="nav-link" href="index.html#tentang">Tentang</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./../silastri_web/index.html#">Akun</a>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                href="#"
+                role="button"
+                aria-expanded="false"
+                >Akun</a
+              >
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="./404.html">Dasbor</a></li>
+                <li>
+                  <a class="dropdown-item" href="./404.html">Pengaturan</a>
+                </li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="./404.html">Masuk</a></li>
+                <li><a class="dropdown-item" href="./404.html">Keluar</a></li>
+              </ul>
             </li>
           </ul>
         </div>
@@ -195,16 +207,14 @@
         </tbody>
       </table>
     </div>
-    
+
     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-      <a
-            href=" ./../silastri_web/index.html"
-            >
-          <button type="button" class="btn btn-primary btn-lg px-4 gap-3">
-            Kembali
-          </button></a
-        >
-        </div>
+      <a href=" ./../index.html">
+        <button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+          Kembali
+        </button></a
+      >
+    </div>
 
     <!-- footer -->
     <div class="container">
