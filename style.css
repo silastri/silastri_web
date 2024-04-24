@@ -1,4 +1,16 @@
 img {
-    width: 200px;
-    max-width: 450px;
+  /* width: 200px; */
+  /* max-width: 450px; */
+  max-height: 100px;
+  width: auto;
+}
+
+.img-logo {
+  max-height: 50px;
+  width: auto;
+}
+
+.img-qr {
+  max-height: 450px;
+  width: auto;
 }
