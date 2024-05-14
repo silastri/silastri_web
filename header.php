@@ -79,6 +79,9 @@
               <a class="dropdown-item" href="pengaduan.php">Layanan Pengaduan</a>
             </li>
             <li>
+              <a class="dropdown-item" href="survei.php">Survei Pengguna Layanan</a>
+            </li>
+            <li>
               <hr class="dropdown-divider" />
             </li>
             <li>
