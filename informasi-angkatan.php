@@ -21,8 +21,9 @@
           <tr>
             <th scope="col">No.</th>
             <th scope="col">Angkatan 1</th>
-            <th scope="col">Angkatan 2 (Sekarang)</th>
-            <th scope="col">Angkatan 3 (Akan Datang)</th>
+            <th scope="col">Angkatan 2</th>
+            <th scope="col">Angkatan 3 (Sekarang)</th>
+            <th scope="col">Angkatan 4 (Akan Datang)</th>
           </tr>
         </thead>
         <tbody>
@@ -31,30 +32,35 @@
             <td>Pengelola Administrasi Perkantoran</td>
             <td>Junior Administrative Assistant</td>
             <td>Pengelola Administrasi Perkantoran</td>
+            <td>Fashion Teknologi (Intensif)</td>
           </tr>
           <tr>
             <th scope="row">2</th>
             <td>Practical Office Advance</td>
             <td>Pembuatan Hiasan Busana dengan Mesin Bordir</td>
             <td>Pengoperasian Mesin Bubut</td>
+            <td>Pengoperasian Mesin Produksi (Intensif)</td>
           </tr>
           <tr>
             <th scope="row">3</th>
             <td>Pengoperasian Mesin Produksi</td>
             <td>Teknisi Telepon Seluler</td>
             <td>Pemasangan Instalasi Listrik Sederhana</td>
+            <td>Akuntansi Junior</td>
           </tr>
           <tr>
             <th scope="row">4</th>
             <td>Instalasi Listrik Bangunan Sederhana</td>
             <td>Teknisi Perawatan AC Residential</td>
             <td>Teknisi AC Residential</td>
+            <td>Pemasangan Instalasi Listrik Sederhana</td>
           </tr>
           <tr>
             <th scope="row">5</th>
             <td>Pengelasan SMAW 3G</td>
             <td>Instalasi Otomasi Listrik Industri</td>
             <td>Plat Welder SMAW 2G</td>
+            <td>Pengelola Administrasi Perkantoran</td>
           </tr>
           <tr>
             <th scope="row">6</th>
