@@ -16,9 +16,9 @@
   </h1>
   <div class="container">
     <div class="table-responsive">
-      <table class="table">
+      <table class="table table-bordered">
         <thead>
-          <tr>
+          <tr class="table-primary">
             <th scope="col">No.</th>
             <th scope="col">Angkatan 1</th>
             <th scope="col">Angkatan 2</th>
@@ -29,86 +29,157 @@
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Pengelola Administrasi Perkantoran</td>
-            <td>Junior Administrative Assistant</td>
-            <td>Pengelola Administrasi Perkantoran</td>
-            <td>Fashion Teknologi (Intensif)</td>
+            <td>Pengelola Administrasi Perkantoran (APBD)</td>
+            <td>Junior Administrative Assistant (APBD)</td>
+            <td>Pengelola Administrasi Perkantoran (APBN)</td>
+            <td>Fashion Teknologi (Intensif) (APBD)</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Practical Office Advance</td>
-            <td>Pembuatan Hiasan Busana dengan Mesin Bordir</td>
-            <td>Pengoperasian Mesin Bubut</td>
-            <td>Pengoperasian Mesin Produksi (Intensif)</td>
+            <td>Practical Office Advance (APBD)</td>
+            <td>Pembuatan Hiasan Busana dengan Mesin Bordir (APBD)</td>
+            <td>Pengoperasian Mesin Bubut (APBN)</td>
+            <td>Pengoperasian Mesin Produksi (Intensif) (APBD)</td>
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Pengoperasian Mesin Produksi</td>
-            <td>Teknisi Telepon Seluler</td>
-            <td>Pemasangan Instalasi Listrik Sederhana</td>
-            <td>Akuntansi Junior</td>
+            <td>Pengoperasian Mesin Produksi (APBD)</td>
+            <td>Teknisi Telepon Seluler (APBD)</td>
+            <td>Pemasangan Instalasi Listrik Sederhana (APBN)</td>
+            <td>Akuntansi Junior (APBD)</td>
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Instalasi Listrik Bangunan Sederhana</td>
-            <td>Teknisi Perawatan AC Residential</td>
-            <td>Teknisi AC Residential</td>
-            <td>Pemasangan Instalasi Listrik Sederhana</td>
+            <td>Instalasi Listrik Bangunan Sederhana (APBD)</td>
+            <td>Teknisi Perawatan AC Residential (APBD)</td>
+            <td>Teknisi AC Residential (APBN)</td>
+            <td>Pemasangan Instalasi Listrik Sederhana (APBD)</td>
           </tr>
           <tr>
             <th scope="row">5</th>
-            <td>Pengelasan SMAW 3G</td>
-            <td>Instalasi Otomasi Listrik Industri</td>
-            <td>Plat Welder SMAW 2G</td>
-            <td>Pengelola Administrasi Perkantoran</td>
+            <td>Pengelasan SMAW 3G (APBD)</td>
+            <td>Instalasi Otomasi Listrik Industri (APBD)</td>
+            <td>Plat Welder SMAW 2G (APBN)</td>
+            <td>Pengelola Administrasi Perkantoran (APBD)</td>
           </tr>
           <tr>
             <th scope="row">6</th>
-            <td>Tata Rias Kecantikan</td>
-            <td>Pengoperasian Mesin CNC</td>
-            <td>Pembuatan Hiasan Busana dengan Mesin Bordir Manual</td>
+            <td>Tata Rias Kecantikan (APBD)</td>
+            <td>Pengoperasian Mesin CNC (APBN)</td>
+            <td>Pembuatan Hiasan Busana dengan Mesin Bordir Manual (APBN)</td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">7</th>
             <td></td>
-            <td>Desainer Grafis Muda</td>
-            <td>Servis Sepeda Motor Injeksi</td>
+            <td>Desainer Grafis Muda (APBN)</td>
+            <td>Servis Sepeda Motor Injeksi (APBD)</td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">8</th>
             <td></td>
-            <td>Pemasangan Jaringan Komputer</td>
-            <td>Instalasi Otomasi Listrik Industri</td>
+            <td>Pemasangan Jaringan Komputer (APBN)</td>
+            <td>Instalasi Otomasi Listrik Industri (APBD)</td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">9</th>
             <td></td>
-            <td>Akutansi Junior</td>
-            <td>Desain Grafis</td>
+            <td>Akutansi Junior (APBN)</td>
+            <td>Desain Grafis (APBD)</td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">10</th>
             <td></td>
-            <td>Mengerjakan Finishing dengan Teknik Semprot</td>
+            <td>Mengerjakan Finishing dengan Teknik Semprot (APBN)</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <th scope="row">11</th>
             <td></td>
-            <td>Servis Sepeda Motor Sistem Injeksi</td>
+            <td>Servis Sepeda Motor Sistem Injeksi (APBN)</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <th scope="row">12</th>
             <td></td>
-            <td>Menjahit Pakaian dengan Mesin</td>
+            <td>Menjahit Pakaian dengan Mesin (APBN)</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <th scope="row">13</th>
             <td></td>
-            <td>Tata Rias Kecantikan</td>
+            <td>Tata Rias Kecantikan (APBN)</td>
             <td></td>
+            <td></td>
+          </tr>
+          <tr class="table-success">
+            <th scope="row">Ket.</th>
+            <!-- angkatan 1 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pendaftaran: <br>12 - 20 Januari 2024</p>
+                </li>
+                <li>
+                  <p>Tes & Wawancara: <br>24 Januari 2024</p>
+                </li>
+                <li>
+                  <p>Pengumuman Hasil: <br>26 Januari 2024</p>
+                </li>
+              </ul>
+            </td>
+            <!-- /angkatan 1 -->
+            <!-- angkatan 2 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pendaftaran: <br>12 - 18 Februari 2024</p>
+                </li>
+                <li>
+                  <p>Tes & Wawancara: <br>21 - 22 Februari 2024</p>
+                </li>
+                <li>
+                  <p>Pengumuman Hasil: <br>26 Februari 2024</p>
+                </li>
+              </ul>
+            </td>
+            <!-- /angkatan 2 -->
+            <!-- angkatan 3 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pendaftaran: <br>18 - 28 April 2024</p>
+                </li>
+                <li>
+                  <p>Tes & Wawancara: <br>30 April 2024</p>
+                </li>
+                <li>
+                  <p>Pengumuman Hasil: <br>03 Mei 2024</p>
+                </li>
+              </ul>
+            </td>
+            <!-- /angkatan 3 -->
+            <!-- angkatan 4 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pendaftaran: <br>22 - 30 Mei 2024</p>
+                </li>
+                <li>
+                  <p>Tes & Wawancara: <br>04 Juni 2024</p>
+                </li>
+                <li>
+                  <p>Pengumuman Hasil: <br>06 Juni 2024</p>
+                </li>
+              </ul>
+            </td>
+            <!-- /angkatan 4 -->
           </tr>
         </tbody>
       </table>
