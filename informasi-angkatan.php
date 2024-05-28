@@ -24,6 +24,8 @@
             <th scope="col">Angkatan 2</th>
             <th scope="col">Angkatan 3 (Sekarang)</th>
             <th scope="col">Angkatan 4 (Akan Datang)</th>
+            <th scope="col">Angkatan 5 (Akan Datang)</th>
+            <th scope="col">Angkatan 6 (Akan Datang)</th>
           </tr>
         </thead>
         <tbody>
@@ -33,6 +35,8 @@
             <td>Junior Administrative Assistant (APBD)</td>
             <td>Pengelola Administrasi Perkantoran (APBN)</td>
             <td>Fashion Teknologi (Intensif) (APBD)</td>
+            <td>Pengelasan SMAW 6G (Intensif) (APBD)</td>
+            <td>Junior Web Programmer (APBD)</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -40,6 +44,8 @@
             <td>Pembuatan Hiasan Busana dengan Mesin Bordir (APBD)</td>
             <td>Pengoperasian Mesin Bubut (APBN)</td>
             <td>Pengoperasian Mesin Produksi (Intensif) (APBD)</td>
+            <td>Pipe Welder FCAW 3G/Hlo-45 (CPMI) (APBD)</td>
+            <td>Servis Sepeda Motor Injeksi(APBD)</td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -47,6 +53,8 @@
             <td>Teknisi Telepon Seluler (APBD)</td>
             <td>Pemasangan Instalasi Listrik Sederhana (APBN)</td>
             <td>Akuntansi Junior (APBD)</td>
+            <td>Pengoperasian Mesin Bubut (APBN)</td>
+            <td>Tata Rias Kecantikan (APBD)</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -54,6 +62,8 @@
             <td>Teknisi Perawatan AC Residential (APBD)</td>
             <td>Teknisi AC Residential (APBN)</td>
             <td>Pemasangan Instalasi Listrik Sederhana (APBD)</td>
+            <td>Pengelola Administrasi Perkantoran (APBN)</td>
+            <td>Practical Office Advance (APBN)</td>
           </tr>
           <tr>
             <th scope="row">5</th>
@@ -61,13 +71,17 @@
             <td>Instalasi Otomasi Listrik Industri (APBD)</td>
             <td>Plat Welder SMAW 2G (APBN)</td>
             <td>Pengelola Administrasi Perkantoran (APBD)</td>
+            <td>Servis Sepeda Motor Injeksi (APBN)</td>
+            <td>Practical Office Advance (APBN)</td>
           </tr>
           <tr>
             <th scope="row">6</th>
             <td>Tata Rias Kecantikan (APBD)</td>
             <td>Pengoperasian Mesin CNC (APBN)</td>
             <td>Pembuatan Hiasan Busana dengan Mesin Bordir Manual (APBN)</td>
-            <td></td>
+            <td>Pembuatan Hiasan Busana dengan Mesin Bordir Manual (APBN)</td>
+            <td>Junior Administrative Assistant (APBN)</td>
+            <td>Mengerjakan Finishing dengan Teknik Semprot (APBN)
           </tr>
           <tr>
             <th scope="row">7</th>
@@ -75,6 +89,9 @@
             <td>Desainer Grafis Muda (APBN)</td>
             <td>Servis Sepeda Motor Injeksi (APBD)</td>
             <td></td>
+            <td></td>
+            <td>Teknisi Telepon Seluler Perangkat Lunak (APBN)</td>
+            </td>
           </tr>
           <tr>
             <th scope="row">8</th>
@@ -82,6 +99,8 @@
             <td>Pemasangan Jaringan Komputer (APBN)</td>
             <td>Instalasi Otomasi Listrik Industri (APBD)</td>
             <td></td>
+            <td></td>
+            <td>Operator Kontrol Kelistrikan dan Pneumatik berbasis PLC (APBN)</td>
           </tr>
           <tr>
             <th scope="row">9</th>
@@ -89,11 +108,15 @@
             <td>Akutansi Junior (APBN)</td>
             <td>Desain Grafis (APBD)</td>
             <td></td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">10</th>
             <td></td>
             <td>Mengerjakan Finishing dengan Teknik Semprot (APBN)</td>
+            <td></td>
+            <td></td>
             <td></td>
             <td></td>
           </tr>
@@ -103,6 +126,8 @@
             <td>Servis Sepeda Motor Sistem Injeksi (APBN)</td>
             <td></td>
             <td></td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">12</th>
@@ -110,11 +135,15 @@
             <td>Menjahit Pakaian dengan Mesin (APBN)</td>
             <td></td>
             <td></td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
             <th scope="row">13</th>
             <td></td>
             <td>Tata Rias Kecantikan (APBN)</td>
+            <td></td>
+            <td></td>
             <td></td>
             <td></td>
           </tr>
@@ -180,6 +209,26 @@
               </ul>
             </td>
             <!-- /angkatan 4 -->
+            <!-- angkatan 5 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pelaksanaan: <br>Juli - Agustus 2024</p>
+                </li>
+              </ul>
+              <p><b>* Jadwal bisa berubah sewaktu-waktu</b></p>
+            </td>
+            <!-- /angkatan 5 -->
+            <!-- angkatan 6 -->
+            <td>
+              <ul>
+                <li>
+                  <p>Pelaksanaan: <br>Agustus - September 2024</p>
+                </li>
+              </ul>
+              <p><b>* Jadwal bisa berubah sewaktu-waktu</b></p>
+            </td>
+            <!-- /angkatan 6 -->
           </tr>
         </tbody>
       </table>
