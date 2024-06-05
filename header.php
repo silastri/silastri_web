@@ -51,9 +51,11 @@
             <li>
               <a class="dropdown-item" href="realisasia.php">Realisasi Anggaran</a>
             </li>
+            <li class="dropdown-divider"></li>
             <li>
               <a class="dropdown-item" href="realisasip.php">Realisasi PAD</a>
             </li>
+            <li class="dropdown-divider"></li>
             <li>
               <a class="dropdown-item" href="realisasik.php">Realisasi Kinerja</a>
             </li>
@@ -66,6 +68,7 @@
             <li>
               <a class="dropdown-item" href="data-pelatihan.php">Data Pelatihan</a>
             </li>
+            <li class="dropdown-divider"></li>
             <li>
               <a class="dropdown-item" href="data-penempatan.php">Data Penempatan</a>
             </li>
@@ -78,6 +81,7 @@
             <li>
               <a class="dropdown-item" href="pengaduan.php">Layanan Pengaduan</a>
             </li>
+            <li class="dropdown-divider"></li>
             <li>
               <a class="dropdown-item" href="survei.php">Survei Pengguna Layanan</a>
             </li>
