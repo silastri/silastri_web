@@ -81,9 +81,16 @@
             <li>
               <a class="dropdown-item" href="survei.php">Survei Pengguna Layanan</a>
             </li>
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Pengumuman</a>
+          <ul class="dropdown-menu">
             <li>
-              <hr class="dropdown-divider" />
+              <a class="dropdown-item" href="pengumuman-seleksi.php">Hasil Seleksi Peserta</a>
             </li>
+            <li class="dropdown-divider"></li>
             <li>
               <a class="dropdown-item" href="employee-of-the-month.php">Employee of the Month</a>
             </li>
