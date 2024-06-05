@@ -39,8 +39,13 @@
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a href="http://bit.ly/pendaftaran-pelatihan-angkatan-4-2024" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
-          </button></a><a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button" class="btn btn-outline-secondary btn-lg px-4">
+          </button></a>
+        <a target="_blank" href="pengumuman-seleksi.php"><button type="button" class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
+          </button></a>
+        </button></a>
+        <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button" class="btn btn-outline-secondary btn-lg px-4">
+            Pengumuman Instagram
           </button></a>
       </div>
     </div>
