@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/singosari/public_html/
-    - /bin/cp . $DEPLOYPATH
+    - /bin/cp -R . $DEPLOYPATH
     - /bin/cp -R files $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R videos $DEPLOYPATH
