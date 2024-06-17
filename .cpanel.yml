@@ -2,10 +2,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/singosari/public_html/
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp styles.css $DEPLOYPATH
-    - /bin/cp .cpanel.yml $DEPLOYPATH
-    - /bin/cp -R files $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
-    - /bin/cp -R videos $DEPLOYPATH
-    - /bin/cp -R pages $DEPLOYPATH
+    - /bin/cp -u -r * $DEPLOYPATH
+    # - /bin/cp index.php $DEPLOYPATH
+    # - /bin/cp styles.css $DEPLOYPATH
+    # - /bin/cp .cpanel.yml $DEPLOYPATH
+    # - /bin/cp -R files $DEPLOYPATH
+    # - /bin/cp -R images $DEPLOYPATH
+    # - /bin/cp -R videos $DEPLOYPATH
+    # - /bin/cp -R pages $DEPLOYPATH
