@@ -1,8 +1,8 @@
 <!-- Required meta tags -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="style.css" />
-<link rel="icon" type="image/x-icon" href="images/favicon.png" />
+<link rel="stylesheet" href="../style.css" />
+<link rel="icon" type="image/x-icon" href="../images/favicon.png" />
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GNBHLY07HL"></script>

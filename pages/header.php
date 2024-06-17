@@ -30,8 +30,8 @@
 <!-- navbar -->
 <nav class="sticky-top d-flex flex-row navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">
-      <img src="./images/logo_silastri_r.png" alt="Logo Silastri" class="img-logo" />
+    <a class="navbar-brand" href="./../index.php">
+      <img src="./../images/logo_silastri_r.png" alt="Logo Silastri" class="img-logo" />
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,7 +40,7 @@
     <div class="justify-content-end collapse navbar-collapse" id="navbarNav">
       <ul class="nav nav-pills">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Beranda</a>
+          <a class="nav-link active" aria-current="page" href="./../index.php">Beranda</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php#pendaftaran">Pendaftaran</a>
@@ -116,11 +116,11 @@
 
 <!-- logo-logo -->
 <div class="p-2 bg-light fixed-bottom d-flex flex-wrap justify-content-evenly">
-  <img src="images/logo_jatim.svg" alt="" class="img-logo" />
-  <img src="images/logo_disnakertrans.png" alt="" class="img-logo" />
-  <img src="images/logo_berakhlak.png" alt="" class="img-logo" />
-  <img src="images/logo_bangga.png" alt="" class="img-logo" />
-  <img src="images/logo_zona_integritas.png" alt="" class="img-logo" />
+  <img src="./../images/logo_jatim.svg" alt="" class="img-logo" />
+  <img src="./../images/logo_disnakertrans.png" alt="" class="img-logo" />
+  <img src="./../images/logo_berakhlak.png" alt="" class="img-logo" />
+  <img src="./../images/logo_bangga.png" alt="" class="img-logo" />
+  <img src="./../images/logo_zona_integritas.png" alt="" class="img-logo" />
 </div>
 <!-- /logo-logo -->
 

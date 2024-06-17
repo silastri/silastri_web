@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 
 <head>
-  <?php include('meta.php'); ?>
+  <?php include('pages/meta.php'); ?>
 </head>
 
 <body>
   <!-- header -->
-  <?php include('header.php'); ?>
+  <?php include('pages/header.php'); ?>
   <!-- /header -->
 
   <!-- informasi pelatihan -->
   <div id="angkatan" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/informasi-angkatan.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/informasi-angkatan.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Informasi Pelatihan</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
@@ -20,7 +20,7 @@
         Malang.
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="./informasi-angkatan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/informasi-angkatan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -29,7 +29,7 @@
 
   <!-- pendaftaran -->
   <div id="pendaftaran" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Pendaftaran Gel. 4 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
@@ -40,7 +40,7 @@
         <a href="http://bit.ly/pendaftaran-pelatihan-angkatan-4-2024" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="pengumuman-seleksi.php"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="pages/pengumuman-seleksi.php"><button type="button" class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
         </button></a>
@@ -53,12 +53,12 @@
 
   <!-- realisasi anggaran -->
   <div id="realisasia" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/realisasia.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/realisasia.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Realisasi Anggaran Tahun 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Realisasi Anggaran Tahun 2024.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="realisasia.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/realisasia.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -67,12 +67,12 @@
 
   <!-- realisasi pad -->
   <div id="realisasip" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/realisasip.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/realisasip.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Realisasi PAD Tahun 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Realisasi PAD Tahun 2024.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="realisasip.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/realisasip.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -81,12 +81,12 @@
 
   <!-- realisasi kinerja -->
   <div id="realisasik" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/realisasik.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/realisasik.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Realisasi Kinerja Tahun 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Realisasi Kinerja Tahun 2024.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="realisasik.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/realisasik.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -95,12 +95,12 @@
 
   <!-- data pelatihan -->
   <div id="datap" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/data_pelatihan.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/data_pelatihan.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Data Pelatihan Tahun 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Data Pelatihan Tahun 2024.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="data-pelatihan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/data-pelatihan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -109,12 +109,12 @@
 
   <!-- data penempatan -->
   <div id="datat" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/data_pelatihan.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/data_pelatihan.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Data Penempatan Tahun 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">Data Penempatan Tahun 2024.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="data-penempatan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/data-penempatan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -123,14 +123,14 @@
 
   <!-- layanan pengaduan -->
   <div id="pengaduan" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/pengaduan.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/pengaduan.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Layanan Pengaduan</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
         Layanan Pengaduan Internal dan Eksternal (SP4N Lapor) Tahun 2024.
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="pengaduan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/pengaduan.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -139,14 +139,14 @@
 
   <!-- survei kepuasan -->
   <div id="survei" class="px-4 py-5 my-5 text-center">
-    <img class="d-block mx-auto mb-4" src="./images/pengaduan.jpg" alt="Gambar Pendaftaran" />
+    <img class="d-block mx-auto mb-4" src="images/pengaduan.jpg" alt="Gambar Pendaftaran" />
     <h2 class="display-5 fw-bold">Survei Kepuasan</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
         Mencakup Survei Kepuasan Masyarakat, Survei Persepsi Kualitas Pelayanan (SPKP) dan Survei Persepsi Anti Korupsi (SPAK), Survei Kualitas Penyelenggaraan Pelatihan serta Survei Penempatan Alumni Tahun 2024.
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="survei.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="pages/survei.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Cek disini!
           </button></a>
       </div>
@@ -154,7 +154,7 @@
   </div>
 
   <!-- footer -->
-  <?php include('footer.php'); ?>
+  <?php include('pages/footer.php'); ?>
   <!-- /footer -->
 </body>
 
