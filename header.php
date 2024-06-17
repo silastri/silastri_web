@@ -85,6 +85,10 @@
             <li>
               <a class="dropdown-item" href="survei.php">Survei Pengguna Layanan</a>
             </li>
+            <li class="dropdown-divider"></li>
+            <li>
+              <a class="dropdown-item" href="files/Buku Panduan SILASTRI.pdf">Buku Panduan Penggunaan</a>
+            </li>
           </ul>
         </li>
 
