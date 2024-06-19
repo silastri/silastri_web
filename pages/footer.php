@@ -1,6 +1,6 @@
 <!-- footer -->
 <footer class="py-5">
-  <div class="bg-light">
+  <div class="p-3 bg-light">
     <div class="container">
       <div class="d-flex flex-row">
         <div class="col-6">
