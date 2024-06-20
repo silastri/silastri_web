@@ -30,17 +30,17 @@
   <!-- pendaftaran -->
   <div id="pendaftaran" class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
-    <h2 class="display-5 fw-bold">Pendaftaran Gel. 4 2024</h2>
+    <h2 class="display-5 fw-bold">Pendaftaran Gel. 5 (21-29 Juni) 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
         Pendaftaran pelatihan kerja berbasis kompetensi di UPT BLK Singosari
         Malang.
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="http://bit.ly/pendaftaran-pelatihan-angkatan-4-2024" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="pages/pengumuman-seleksi.php"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="pages/pengumuman-seleksi.php"><button type="button" class="btn btn-success btn-lg px-4" disabled>
             Pengumuman Hasil Seleksi
           </button></a>
         </button></a>
