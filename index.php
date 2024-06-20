@@ -40,7 +40,7 @@
         <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="pages/pengumuman-seleksi.php" class="disabled" aria-disabled="true"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="#"><button type="button" class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
         </button></a>
