@@ -30,8 +30,8 @@
 <!-- navbar -->
 <nav class="sticky-top d-flex flex-row navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="./../index.php">
-      <img src="./../images/logo_silastri_r.png" alt="Logo Silastri" class="img-logo" />
+    <a class="navbar-brand" href="../index.php">
+      <img src="../images/logo_silastri_r.png" alt="Logo Silastri" class="img-logo" />
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,24 +40,24 @@
     <div class="justify-content-end collapse navbar-collapse" id="navbarNav">
       <ul class="nav nav-pills">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="./../index.php">Beranda</a>
+          <a class="nav-link active" aria-current="page" href="../index.php">Beranda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php#pendaftaran">Pendaftaran</a>
+          <a class="nav-link" href="../index.php#pendaftaran">Pendaftaran</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Laporan</a>
           <ul class="dropdown-menu">
             <li>
-              <a class="dropdown-item" href="realisasia.php">Realisasi Anggaran</a>
+              <a class="dropdown-item" href="../pages/realisasia.php">Realisasi Anggaran</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="realisasip.php">Realisasi PAD</a>
+              <a class="dropdown-item" href="../pages/realisasip.php">Realisasi PAD</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="realisasik.php">Realisasi Kinerja</a>
+              <a class="dropdown-item" href="../pages/realisasik.php">Realisasi Kinerja</a>
             </li>
           </ul>
         </li>
@@ -66,11 +66,11 @@
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Data</a>
           <ul class="dropdown-menu">
             <li>
-              <a class="dropdown-item" href="data-pelatihan.php">Data Pelatihan</a>
+              <a class="dropdown-item" href="../pages/data-pelatihan.php">Data Pelatihan</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="data-penempatan.php">Data Penempatan</a>
+              <a class="dropdown-item" href="../pages/data-penempatan.php">Data Penempatan</a>
             </li>
           </ul>
         </li>
@@ -79,15 +79,15 @@
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Layanan</a>
           <ul class="dropdown-menu">
             <li>
-              <a class="dropdown-item" href="pengaduan.php">Layanan Pengaduan</a>
+              <a class="dropdown-item" href="../pages/pengaduan.php">Layanan Pengaduan</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="survei.php">Survei Pengguna Layanan</a>
+              <a class="dropdown-item" href="../pages/survei.php">Survei Pengguna Layanan</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="files/Buku Panduan SILASTRI.pdf">Buku Panduan Penggunaan</a>
+              <a class="dropdown-item" href="../files/Buku Panduan SILASTRI.pdf">Buku Panduan Penggunaan</a>
             </li>
           </ul>
         </li>
@@ -96,17 +96,17 @@
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Pengumuman</a>
           <ul class="dropdown-menu">
             <li>
-              <a class="dropdown-item" href="pengumuman-seleksi.php">Hasil Seleksi Peserta</a>
+              <a class="dropdown-item" href="../pages/pengumuman-seleksi.php">Hasil Seleksi Peserta</a>
             </li>
             <li class="dropdown-divider"></li>
             <li>
-              <a class="dropdown-item" href="employee-of-the-month.php">Employee of the Month</a>
+              <a class="dropdown-item" href="../pages/employee-of-the-month.php">Employee of the Month</a>
             </li>
           </ul>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="tentang.php">Tentang</a>
+          <a class="nav-link" href="../pages/tentang.php">Tentang</a>
         </li>
       </ul>
     </div>
@@ -116,11 +116,11 @@
 
 <!-- logo-logo -->
 <div class="p-2 bg-light fixed-bottom d-flex flex-wrap justify-content-evenly">
-  <img src="./../images/logo_jatim.svg" alt="" class="img-logo" />
-  <img src="./../images/logo_disnakertrans.png" alt="" class="img-logo" />
-  <img src="./../images/logo_berakhlak.png" alt="" class="img-logo" />
-  <img src="./../images/logo_bangga.png" alt="" class="img-logo" />
-  <img src="./../images/logo_zona_integritas.png" alt="" class="img-logo" />
+  <img src="../images/logo_jatim.svg" alt="" class="img-logo" />
+  <img src="../images/logo_disnakertrans.png" alt="" class="img-logo" />
+  <img src="../images/logo_berakhlak.png" alt="" class="img-logo" />
+  <img src="../images/logo_bangga.png" alt="" class="img-logo" />
+  <img src="../images/logo_zona_integritas.png" alt="" class="img-logo" />
 </div>
 <!-- /logo-logo -->
 
