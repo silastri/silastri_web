@@ -40,10 +40,9 @@
         <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="#"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;" aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
-        </button></a>
         <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button" class="btn btn-outline-secondary btn-lg px-4">
             Pengumuman Instagram
           </button></a>
