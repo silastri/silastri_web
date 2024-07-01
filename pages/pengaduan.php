@@ -20,7 +20,7 @@
       <h3 class="text-center" style="color: blue">
         LAYANAN PENGADUAN UPT BLK SINGOSARI
       </h3>
-      <img src="images/pengaduan_qr.jpg" alt="qr code pengaduan" class="img-fluid mx-auto d-block img-qr" />
+      <img src="../images/pengaduan_qr.jpg" alt="qr code pengaduan" class="img-fluid mx-auto d-block img-qr" />
       <figcaption class="text-center" style="color: blue">
         QR CODE LAYANAN SINGOSARI
       </figcaption>
@@ -33,7 +33,7 @@
       <h3 class="text-center" style="color: red">
         LAYANAN PENGADUAN SP4N LAPOR
       </h3>
-      <img src="images/pengaduan_qr.jpg" alt="qr code pengaduan" class="img-fluid mx-auto d-block img-qr" />
+      <img src="../images/pengaduan_qr.jpg" alt="qr code pengaduan" class="img-fluid mx-auto d-block img-qr" />
       <figcaption class="text-center" style="color: red">
         QR CODE LAYANAN SP4N LAPOR
       </figcaption>

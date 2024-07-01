@@ -13,7 +13,7 @@
   <!-- tentang -->
   <div id="tentang" class="mt-0 pt-1 px-4 py-5 my-5 text-center">
     <video class="img-fluid" preload="none" autoplay controls muted loop poster="../images/profil_foto.JPG" style="max-height: 400px; width: auto">
-      <source src="../videos/Profil UPT BLK Singosari.m4v" type="video/mp4" />
+      <source src="../videos/Profil UPT BLK Singosari.mp4" type="video/mp4" />
     </video>
     <figcaption>Video Profil UPT BLK Singosari</figcaption>
     <div class="p-5"></div>
