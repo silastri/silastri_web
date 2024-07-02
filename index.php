@@ -30,15 +30,59 @@
   <!-- pendaftaran -->
   <div id="pendaftaran" class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
-    <h2 class="display-5 fw-bold">Pendaftaran Gel. 5 (21-29 Juni) 2024</h2>
+    <h2 class="display-5 fw-bold">Pelatihan Gelombang 5 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
-        Pendaftaran pelatihan kerja berbasis kompetensi di UPT BLK Singosari
+        Pelatihan kerja berbasis kompetensi di UPT BLK Singosari
         Malang.
       </p>
+      <table class="table table-striped table-hover">
+        <thead>
+          <tr>
+            <th scope="col">No.</th>
+            <th scope="col">Kegiatan</th>
+            <th scope="col">Tanggal</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Pendaftaran</td>
+            <td>21 - 29 Juni 2024</td>
+          </tr>
+          <tr class="table-success">
+            <th scope="row">2</th>
+            <td>Pemanggilan Peserta</td>
+            <td>02 Juli 2024</td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Tes Seleksi & Wawancara</td>
+            <td>04 Juli 2024</td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td>Pengumuman Hasil Seleksi</td>
+            <td>08 Juli 2024</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td>Daftar Ulang Peserta</td>
+            <td>09 Juli 2024</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Pembukaan Pelatihan</td>
+            <td>10 Juli 2024</td>
+          </tr>
+        </tbody>
+      </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank" style="pointer-events: none;" aria-disabled="true"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
             Daftar disini!
+          </button></a>
+        <a target="_blank" href="http://bit.ly/peserta-tes-wawancara-angkatan-5"><button type="button" class="btn btn-success btn-lg px-4">
+            Pemanggilan Peserta
           </button></a>
         <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;" aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pengumuman Hasil Seleksi
