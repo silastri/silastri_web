@@ -160,7 +160,7 @@
       </li>
       <li>
         Membawa <b>fotocopy KTP</b> 1 lembar, <b>Fotocopy ijazah</b> terakhir 1 lembar, <b>pas foto background biru
-          kemeja putih berdasi </b>ukuran 3x4 (5 lembar)
+          kemeja putih </b>ukuran 3x4 (5 lembar)
       </li>
       <li>
         Bagi Peserta LULUS CADANGAN akan kami hubungi melalui No. HP yang telah dicantumkan pada formulir pendaftaran
