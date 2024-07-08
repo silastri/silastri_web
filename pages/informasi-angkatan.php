@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-  <?php include('meta.php'); ?>
+  <?php include ('meta.php'); ?>
 </head>
 
 <body>
   <!-- header -->
-  <?php include('header.php'); ?>
+  <?php include ('header.php'); ?>
   <!-- /header -->
 
   <!-- tabel informasi angkatan -->
@@ -22,7 +22,7 @@
             <th scope="col">No.</th>
             <th scope="col">Angkatan 1</th>
             <th scope="col">Angkatan 2</th>
-            <th scope="col">Angkatan 3 (Sekarang)</th>
+            <th scope="col">Angkatan 3</th>
             <th scope="col">Angkatan 4 (Sekarang)</th>
             <th scope="col">Angkatan 5 (Akan Datang)</th>
             <th scope="col">Angkatan 6 (Akan Datang)</th>
@@ -239,11 +239,11 @@
   </div>
 
   <!-- kembali -->
-  <?php include('kembali.php'); ?>
+  <?php include ('kembali.php'); ?>
   <!-- /kembali -->
 
   <!-- footer -->
-  <?php include('footer.php'); ?>
+  <?php include ('footer.php'); ?>
   <!-- /footer -->
 </body>
 
