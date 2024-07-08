@@ -15,7 +15,7 @@
     Pengumuman Hasil Seleksi Calon Peserta Pelatihan
   </h1>
   <h2 class="display-6 fw-bold text-center mb-5">
-    Angkatan 5 Tahun 2024
+    Kejuruan Servis Sepeda Motor Injeksi (APBN)
   </h2>
   <div class="container">
     <div class="table-responsive">
@@ -23,71 +23,107 @@
         <thead>
           <tr class="table-primary">
             <th scope="col">No.</th>
-            <th scope="col">Kejuruan</th>
-            <th scope="col">Link</th>
+            <th scope="col">Nama</th>
+            <th scope="col">No. Tes</th>
             <th scope="col">Keterangan</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Servis Sepeda Motor Injeksi (APBD)</td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Link Pengumuman</a></td>
-            <td>APBD</td>
+            <td>HAFIS ILHAM WAHYUDI</td>
+            <td>15</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Junior Web Programmer (APBD)</td>
-            <td><a href="pengumuman-5-web-apbd.php">Link Pengumuman</a></td>
-            <td>APBD</td>
+            <td>MUHAMMAD YOGI SAPUTRA </td>
+            <td>31</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Pengelasan SMAW 6G (APBD)</td>
-            <td><a href="pengumuman-5-smaw-6g-apbd.php">Link Pengumuman</a></td>
-            <td>APBD</td>
+            <td>MOCH RIZAL IZZI ROSYIDHAN</td>
+            <td>23</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Tata Rias Kecantikan (APBD)</td>
-            <td><a href="pengumuman-5-tata-rias-apbd.php">Link Pengumuman</a></td>
-            <td>APBD</td>
+            <td>YONGKI JULIANTO PRATAMA</td>
+            <td>38</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">5</th>
-            <td>Pengoperasian Mesin Bubut (APBN)</td>
-            <td><a href="pengumuman-5-mesin-bubut-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>RAIHAN AKBAR PANDU SANTOSO</td>
+            <td>34</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">6</th>
-            <td>Practical Office Advance (APBN)</td>
-            <td><a href="pengumuman-5-poa-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>MOHAMMAD ADHI WICAKSANA</td>
+            <td>26</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">7</th>
-            <td>Junior Administrative Assistant (APBN)</td>
-            <td><a href="pengumuman-5-jaa-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>MICHAEL NOBRE DUBOIS FLORINDO</td>
+            <td>21</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">8</th>
-            <td>Servis Sepeda Motor Injeksi (APBN)</td>
-            <td><a href="pengumuman-5-motor-injeksi-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>AGIL THOHIR ABABIL </td>
+            <td>5</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">9</th>
-            <td>Pembuatan Hiasan Busana dengan Mesin Bordir (APBN)</td>
-            <td><a href="pengumuman-5-busana-bordir-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>MAULANA SADAM NUR RAHMAN</td>
+            <td>20</td>
+            <td>Lulus</td>
           </tr>
           <tr>
             <th scope="row">10</th>
-            <td>Finishing dengan Teknik Semprot (APBN)</td>
-            <td><a href="pengumuman-5-finishing-semprot-apbn.php">Link Pengumuman</a></td>
-            <td>APBN</td>
+            <td>AHMAD NIZARUL ALIM</td>
+            <td>07</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">11</th>
+            <td>ALFIAN AGUNG PRATAMA</td>
+            <td>09</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">12</th>
+            <td>BAYU NANDA SAPUTRA</td>
+            <td>11</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">13</th>
+            <td>MOCHAMAD KHOIRUL FARIS </td>
+            <td>25</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">14</th>
+            <td>MOCHAMMAD LUKMAN HADI SAPUTRA</td>
+            <td>24</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">15</th>
+            <td>NICKY WIDI PUTRA</td>
+            <td>32</td>
+            <td>Lulus</td>
+          </tr>
+          <tr>
+            <th scope="row">16</th>
+            <td>RIDHO GUSTI SEFTIAWAN </td>
+            <td>35</td>
+            <td>Lulus</td>
           </tr>
         </tbody>
       </table>
@@ -118,7 +154,7 @@
 
   <h2 class="text-center my-5 pt-5">
     Informasi lebih lanjut dapat dilihat pada link berikut:
-    <a target="_blank" href="https://instagram.com/p/C9I55pXPZ3M/">Pengumuman Instagram</a>
+    <a href="https://instagram.com/p/C9I55pXPZ3M/">Pengumuman Instagram</a>
   </h2>
 
   <!-- kembali -->
