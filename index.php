@@ -2,12 +2,12 @@
 <html lang="id">
 
 <head>
-  <?php include('pages/meta.php'); ?>
+  <?php include ('pages/meta.php'); ?>
 </head>
 
 <body>
   <!-- header -->
-  <?php include('pages/header.php'); ?>
+  <?php include ('pages/header.php'); ?>
   <!-- /header -->
 
   <!-- informasi pelatihan -->
@@ -50,7 +50,7 @@
             <td>Pendaftaran</td>
             <td>21 - 29 Juni 2024</td>
           </tr>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">2</th>
             <td>Pemanggilan Peserta</td>
             <td>02 Juli 2024</td>
@@ -60,7 +60,7 @@
             <td>Tes Seleksi & Wawancara</td>
             <td>04 Juli 2024</td>
           </tr>
-          <tr>
+          <tr class="table-success">
             <th scope="row">4</th>
             <td>Pengumuman Hasil Seleksi</td>
             <td>08 Juli 2024</td>
@@ -78,16 +78,20 @@
         </tbody>
       </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank" style="pointer-events: none;" aria-disabled="true"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
+        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="http://bit.ly/peserta-tes-wawancara-angkatan-5"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="http://bit.ly/peserta-tes-wawancara-angkatan-5" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pemanggilan Peserta
           </button></a>
-        <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;" aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
+        <a target="_blank" href="pages/pengumuman-seleksi.php"><button type="button"
+            class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
-        <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button" class="btn btn-outline-secondary btn-lg px-4">
+        <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button"
+            class="btn btn-outline-secondary btn-lg px-4">
             Pengumuman Instagram
           </button></a>
       </div>
@@ -186,7 +190,8 @@
     <h2 class="display-5 fw-bold">Survei Kepuasan</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
-        Mencakup Survei Kepuasan Masyarakat, Survei Persepsi Kualitas Pelayanan (SPKP) dan Survei Persepsi Anti Korupsi (SPAK), Survei Kualitas Penyelenggaraan Pelatihan serta Survei Penempatan Alumni Tahun 2024.
+        Mencakup Survei Kepuasan Masyarakat, Survei Persepsi Kualitas Pelayanan (SPKP) dan Survei Persepsi Anti Korupsi
+        (SPAK), Survei Kualitas Penyelenggaraan Pelatihan serta Survei Penempatan Alumni Tahun 2024.
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a href="pages/survei.php"><button type="button" class="btn btn-primary btn-lg px-4 gap-3">
@@ -197,7 +202,7 @@
   </div>
 
   <!-- footer -->
-  <?php include('pages/footer.php'); ?>
+  <?php include ('pages/footer.php'); ?>
   <!-- /footer -->
 </body>
 
