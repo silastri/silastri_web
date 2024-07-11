@@ -60,7 +60,7 @@
             <td>Tes Seleksi & Wawancara</td>
             <td>04 Juli 2024</td>
           </tr>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">4</th>
             <td>Pengumuman Hasil Seleksi</td>
             <td>08 Juli 2024</td>
@@ -75,6 +75,11 @@
             <td>Pembukaan Pelatihan</td>
             <td>10 Juli 2024</td>
           </tr>
+          <tr class="table-success">
+            <th scope="row">7</th>
+            <td>Pelaksanaan Pelatihan</td>
+            <td>Juli - Agustus 2024</td>
+          </tr>
         </tbody>
       </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
@@ -86,8 +91,8 @@
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pemanggilan Peserta
           </button></a>
-        <a target="_blank" href="pages/pengumuman-seleksi.php"><button type="button"
-            class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
         <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button"
