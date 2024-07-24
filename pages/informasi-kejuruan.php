@@ -43,7 +43,7 @@
                 <li>Pembuatan Batik Tulis</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-aneka-kejuruan.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">2.</th>
@@ -53,7 +53,8 @@
                 <li>Mengerjakan Finishing dengan Teknik Semprot</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <!-- <td><a href="kejuruan-bangunan.php">Informasi</a></td> -->
+            <td><a href="404.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">3.</th>
@@ -65,7 +66,7 @@
                 <li>Pengelola Administrasi Perkantoran</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-bisman.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">4.</th>
@@ -75,7 +76,7 @@
                 <li>Teknisi Telepon Seluler</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-elektronika.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">5.</th>
@@ -88,7 +89,7 @@
                 <li>Pengelasan FCAW 3G</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-pengelasan.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">6.</th>
@@ -99,7 +100,7 @@
                 <li>Pemasangan Instalasi Otomasi Listrik Industri</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-listrik.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">7.</th>
@@ -111,7 +112,7 @@
                 <li>Pengoperasian Mesin Bubut</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-manufaktur.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">8.</th>
@@ -121,7 +122,7 @@
                 <li>Servis Sepeda Motor Injeksi</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-otomotif.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">9.</th>
@@ -131,7 +132,7 @@
                 <li>Pembuatan Roti dan Kue</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="404.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">10.</th>
@@ -141,7 +142,7 @@
                 <li>Teknisi Perawatan AC Residential</li>
               </ul>
             </td>
-            <td><a href="pengumuman-5-motor-injeksi-apbd.php">Informasi</a></td>
+            <td><a href="kejuruan-refrigerasi.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">11.</th>
