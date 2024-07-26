@@ -53,8 +53,7 @@
                 <li>Mengerjakan Finishing dengan Teknik Semprot</li>
               </ul>
             </td>
-            <!-- <td><a href="kejuruan-bangunan.php">Informasi</a></td> -->
-            <td><a href="404.php">Informasi</a></td>
+            <td><a href="kejuruan-bangunan.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">3.</th>
@@ -132,7 +131,7 @@
                 <li>Pembuatan Roti dan Kue</li>
               </ul>
             </td>
-            <td><a href="404.php">Informasi</a></td>
+            <td><a href="kejuruan-perhotelan.php">Informasi</a></td>
           </tr>
           <tr>
             <th scope="row" class="text-center">10.</th>
