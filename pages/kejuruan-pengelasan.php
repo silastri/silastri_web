@@ -38,30 +38,30 @@
                     <tr>
                         <th scope="row" class="text-center">1.</th>
                         <td>Melaksanakan Persiapan Tempat Kerja</td>
-                        <td class="text-center">M.74100.001.02</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">C.24LAS01.001.01</td>
+                        <td class="text-center">24</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">2.</th>
                         <td>Memperbaiki Hasil Pengelasan
                         </td>
-                        <td class="text-center">M.74100.002.02</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">C.24LAS01.026.01</td>
+                        <td class="text-center">24</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">3.</th>
                         <td>Membuat Sambungan Las Fillet sesuai WPS Pengelasan Pelat ke Pelat, Pipa ke Pipa dan Pelat ke
                             Pipa sesuai dengan Proses yang digunakan</td>
-                        <td class="text-center">M.74100.005.02</td>
-                        <td class="text-center">10</td>
+                        <td class="text-center">C.24LAS01.028.01</td>
+                        <td class="text-center">64</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">4.</th>
                         <td>Membuat Sambungan Las Kampuh (Groove) sesuai WPS untuk
                             Pengelasan Pelat ke Pelat dan sesuai dengan Proses Las yang digunakan
                         </td>
-                        <td class="text-center">M.74100.009.02</td>
-                        <td class="text-center">48</td>
+                        <td class="text-center">C.24LAS01.029.01</td>
+                        <td class="text-center">108</td>
                     </tr>
                 </tbody>
             </table>
@@ -90,29 +90,29 @@
                     <tr>
                         <th scope="row" class="text-center">1.</th>
                         <td>Melaksanakan Persiapan Tempat Kerja</td>
-                        <td class="text-center">J.611000.001.01</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">C.25LAS01.001.01</td>
+                        <td class="text-center">24</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">2.</th>
                         <td>Memperbaiki Hasil Pengelasan</td>
-                        <td class="text-center">J.611000.002.01</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">C.25LAS01.026.01</td>
+                        <td class="text-center">24</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">3.</th>
                         <td>Membuat Sambungan Las Fillet sesuai WPS Pengelasan Pelat ke Pelat, Pipa ke Pipa dan Pelat ke
                             Pipa sesuai dengan Proses yang digunakan (1F,2F,3F)</td>
-                        <td class="text-center">J.611000.003.01</td>
-                        <td class="text-center">16</td>
+                        <td class="text-center">C.25LAS01.028.01</td>
+                        <td class="text-center">64</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">4.</th>
                         <td>Membuat Sambungan Las Kampuh (Groove) sesuai WPS untuk
                             Pengelasan Pelat ke Pelat dan sesuai dengan Proses Las yang digunakan (1G,2G,3G)
                         </td>
-                        <td class="text-center">J.611000.004.01</td>
-                        <td class="text-center">12</td>
+                        <td class="text-center">C.25LAS01.029.01</td>
+                        <td class="text-center">128</td>
                     </tr>
                 </tbody>
             </table>

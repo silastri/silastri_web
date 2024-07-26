@@ -40,84 +40,84 @@
                         <td>Menerapkan Prinsip-Prinsip Keselamatan dan Kesehatan Kerja dan
                             Lingkungan Hidup(K3-LH)
                         </td>
-                        <td class="text-center">M.74100.001.02</td>
+                        <td class="text-center">F.43RAC01.001.1</td>
                         <td class="text-center">8</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">2.</th>
                         <td>Menerpakan komunikasi di Tempat Kerja
                         </td>
-                        <td class="text-center">M.74100.002.02</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">F.43RAC01.002.1</td>
+                        <td class="text-center">4</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">3.</th>
                         <td>Menerapkan Kerjasama di Tempat Kerja</td>
-                        <td class="text-center">M.74100.005.02</td>
-                        <td class="text-center">10</td>
+                        <td class="text-center">F.43RAC01.003.1</td>
+                        <td class="text-center">4</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">4.</th>
                         <td>Merangkai Kelistrikan Sederhana
                         </td>
-                        <td class="text-center">M.74100.009.02</td>
-                        <td class="text-center">48</td>
+                        <td class="text-center">F.43RAC01.006.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">5.</th>
                         <td>Menggunakan Alat Ukur Refrigerasi dan Tata Udara</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.008.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">6.</th>
                         <td>Memeriksa Kebocoran Refrigeran
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.010.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">7.</th>
                         <td>Mengevakuasi Sistem Refrigerasi dan Tata Udara
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.012.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">8.</th>
                         <td>Melakukan Recovery Refrigeran</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.014.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">9.</th>
                         <td>Melakukan Proses Pengisian Refrigeran</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.013.1</td>
+                        <td class="text-center">12</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">10.</th>
                         <td>Merangkai Sistem Pemipaan Sederhana</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.007.1</td>
+                        <td class="text-center">20</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">11.</th>
                         <td>Memasang Unit Tata Udara Rumah Tangga</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.021.1</td>
+                        <td class="text-center">32</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">12.</th>
                         <td>Memperbaiki Unit dan Sistem Refrigerasi dan Tata Udara</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">F.43RAC01.024.1</td>
+                        <td class="text-center">40</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">13.</th>
                         <td>Membersihkan AC Indoor dan Outdoor</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">C.281930.056.01</td>
+                        <td class="text-center">20</td>
                     </tr>
                 </tbody>
             </table>

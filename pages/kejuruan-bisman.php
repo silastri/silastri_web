@@ -223,6 +223,72 @@
 
     <div class="m-5"></div>
 
+    <!-- program pemasangan jaringan komputer -->
+    <div class="container border rounded">
+        <h3 class="m-3 display-6 fw-bold text-center">
+            Program Akuntansi Junior
+        </h3>
+        <li class="dropdown-divider"></li>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered">
+                <thead>
+                    <tr class="table-primary text-center">
+                        <th scope="col">No.</th>
+                        <th scope="col">Unit Kompetensi</th>
+                        <th scope="col">Kode Unit</th>
+                        <th scope="col">Jam Pelatihan</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row" class="text-center">1.</th>
+                        <td>Menerapkan Prinsip praktik Profesional dalam Bekerja</td>
+                        <td class="text-center">M.692000.001.02</td>
+                        <td class="text-center">10</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">2.</th>
+                        <td>Menerapkan Prinsip praktik-praktik Kesehatan dan Keselamatan di Tempat Kerja</td>
+                        <td class="text-center">M.692000.002.02</td>
+                        <td class="text-center">10</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">3.</th>
+                        <td>Memproses Entry Jurnal</td>
+                        <td class="text-center">M.692000.007.02</td>
+                        <td class="text-center">40</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">4.</th>
+                        <td>Memproses Buku Besar</td>
+                        <td class="text-center">M.692000.008.02 </td>
+                        <td class="text-center">20</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">5.</th>
+                        <td>Menyusun Laporan Keuangan</td>
+                        <td class="text-center">M.692000.013.02</td>
+                        <td class="text-center">50</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">6.</th>
+                        <td>Mengoperasikan Paket Program Pengolahan Angka / Spreadsheet</td>
+                        <td class="text-center">M.692000.022.02</td>
+                        <td class="text-center">40</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" class="text-center">7.</th>
+                        <td>Mengoperasikan Aplikasi Komputer Akutansi</td>
+                        <td class="text-center">J.611000.008.02</td>
+                        <td class="text-center">50</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="m-5"></div>
+
     <div class="container mt-5">
         <p class="text-center">
             <b>Catatan: </b>Jam Pelatihan dapat berubah sesuai dengan kebijakan

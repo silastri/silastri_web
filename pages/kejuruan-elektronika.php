@@ -38,89 +38,89 @@
                     <tr>
                         <th scope="row" class="text-center">1.</th>
                         <td>Mencetak Ulang Kaki IC BGA</td>
-                        <td class="text-center">M.74100.001.02</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">S.951200.006.01</td>
+                        <td class="text-center">22</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">2.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler Mati Total
                         </td>
-                        <td class="text-center">M.74100.002.02</td>
-                        <td class="text-center">8</td>
+                        <td class="text-center">S.951200.007.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">3.</th>
                         <td>Memperbaiki Kerusakan lampu LED Telepon Seluler </td>
-                        <td class="text-center">M.74100.005.02</td>
-                        <td class="text-center">10</td>
+                        <td class="text-center">S.951200.008.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">4.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler tidak ada tampilan dan tidak bisa
                             dimatikan dari Tombol ON OFF
                         </td>
-                        <td class="text-center">M.74100.009.02</td>
-                        <td class="text-center">48</td>
+                        <td class="text-center">S.951200.009.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">5.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler SIM Card tidak terbaca</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.010.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">6.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler pada tombol Keypad
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.011.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">7.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler tidak ada sinyal</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.013.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">8.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler pada MIC</td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.015.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">9.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler pada Kamera
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.018.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">10.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler Aktifasi Ulang / Restart
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.021.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">11.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler Trackpad tidak berfungsi
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.024.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">12.</th>
                         <td>Memperbaiki Kerusakan Telepon Seluler Touchscreen tidak berfungsi
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.025.01</td>
+                        <td class="text-center">16</td>
                     </tr>
                     <tr>
                         <th scope="row" class="text-center">12.</th>
                         <td>Mengoperasikan Fungsi menu Program Flashing
                         </td>
-                        <td class="text-center">M.74100.010.01</td>
-                        <td class="text-center">146</td>
+                        <td class="text-center">S.951200.026.01</td>
+                        <td class="text-center">22</td>
                     </tr>
                 </tbody>
             </table>
