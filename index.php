@@ -45,7 +45,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">1</th>
             <td>Pendaftaran</td>
             <td>01 - 11 Agustus 2024</td>
@@ -60,7 +60,7 @@
             <td>Pelaksanaan Tes Online (Tes Online Kej. PAP)</td>
             <td>13 Agustus 2024</td>
           </tr>
-          <tr>
+          <tr class="table-success">
             <th scope="row">4</th>
             <td>Pemanggilan Peserta (Tes Offline)</td>
             <td>14 Agustus 2024</td>
@@ -93,13 +93,16 @@
         </tbody>
       </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="https://forms.gle/pET1h47wY1UWBTgC7" target="_blank"><button type="button"
-            class="btn btn-success btn-lg px-4 gap-3">
+        <a href="https://forms.gle/pET1h47wY1UWBTgC7" target="_blank" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="http://bit.ly/peserta-tes-wawancara-angkatan-5" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
-            Pemanggilan Peserta
+        <a target="_blank" href="https://bit.ly/hasil-tes-online-PAP-angkatan6"><button type="button"
+            class="btn btn-success btn-lg px-4">
+            Hasil Tes Online PAP & Pemanggilan Peserta</button></a>
+        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan6"><button type="button"
+            class="btn btn-success btn-lg px-4">
+            Pemanggilan Peserta Tes Offline
           </button></a>
         <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;"
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
