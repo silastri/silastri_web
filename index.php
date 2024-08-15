@@ -60,12 +60,12 @@
             <td>Pelaksanaan Tes Online (Tes Online Kej. PAP)</td>
             <td>13 Agustus 2024</td>
           </tr>
-          <tr class="table-success">
+          <tr>
             <th scope="row">4</th>
             <td>Pemanggilan Peserta (Tes Offline)</td>
             <td>14 Agustus 2024</td>
           </tr>
-          <tr>
+          <tr class="table-success">
             <th scope="row">5</th>
             <td>Pelaksanaan Tes Seleksi & Wawancara</td>
             <td>15 Agustus 2024</td>
