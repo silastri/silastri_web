@@ -65,12 +65,12 @@
             <td>Pemanggilan Peserta (Tes Offline)</td>
             <td>14 Agustus 2024</td>
           </tr>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">5</th>
             <td>Pelaksanaan Tes Seleksi & Wawancara</td>
             <td>15 Agustus 2024</td>
           </tr>
-          <tr class="">
+          <tr class="table-success">
             <th scope="row">6</th>
             <td>Pengumuman Hasil Seleksi</td>
             <td>19 Agustus 2024</td>
@@ -97,15 +97,15 @@
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="https://bit.ly/hasil-tes-online-PAP-angkatan6"><button type="button"
-            class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="https://bit.ly/hasil-tes-online-PAP-angkatan6" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Hasil Tes Online PAP & Pemanggilan Peserta</button></a>
-        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan6"><button type="button"
-            class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan6" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pemanggilan Peserta Tes Offline
           </button></a>
-        <a target="_blank" href="pages/pengumuman-seleksi.php" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
+        <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf"><button type="button"
+            class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
           </button></a>
         <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button"
