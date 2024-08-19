@@ -30,7 +30,7 @@
   <!-- pendaftaran -->
   <div id="pendaftaran" class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
-    <h2 class="display-5 fw-bold">Pelatihan Gelombang 5 2024</h2>
+    <h2 class="display-5 fw-bold">Pelatihan Gelombang 6 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
         Pelatihan kerja berbasis kompetensi di UPT BLK Singosari
@@ -45,7 +45,7 @@
           </tr>
         </thead>
         <tbody>
-          <!-- <tr class="">
+          <tr class="">
             <th scope="row">1</th>
             <td>Pendaftaran</td>
             <td>01 - 11 Agustus 2024</td>
@@ -79,51 +79,12 @@
             <th scope="row">7</th>
             <td>Registrasi Ulang Peserta</td>
             <td>20 Agustus 2024</td>
-          </tr> -->
-          <tr class="table-success">
-            <th scope="row">1</th>
-            <td>Pendaftaran</td>
-            <td>21 - 29 Juni 2024</td>
-          </tr>
-          <tr class="">
-            <th scope="row">2</th>
-            <td>Pemanggilan Peserta (Tes Online)</td>
-            <td>30 Juni 2024</td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td>Pelaksanaan Tes Online (Tes Online)</td>
-            <td>01 Juli 2024</td>
-          </tr>
-          <tr>
-            <th scope="row">4</th>
-            <td>Pemanggilan Peserta (Tes Offline)</td>
-            <td>02 Juli 2024</td>
-          </tr>
-          <tr class="">
-            <th scope="row">5</th>
-            <td>Pelaksanaan Tes Seleksi & Wawancara</td>
-            <td>04 Juli 2024</td>
-          </tr>
-          <tr class="">
-            <th scope="row">6</th>
-            <td>Pengumuman Hasil Seleksi</td>
-            <td>08 Juli 2024</td>
-          </tr>
-          <tr class="">
-            <th scope="row">7</th>
-            <td>Registrasi Ulang Peserta</td>
-            <td>09 Juli 2024</td>
           </tr>
         </tbody>
       </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <!-- <a href="https://forms.gle/pET1h47wY1UWBTgC7" target="_blank" style="pointer-events: none;"
+        <a href="https://forms.gle/pET1h47wY1UWBTgC7" target="_blank" style="pointer-events: none;"
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
-            Daftar disini!
-          </button></a> -->
-        <a href="https://forms.gle/PE79cxf5agk8hKN5A" target="_blank"><button type="button"
-            class="btn btn-success btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
         <a target="_blank" href="https://bit.ly/hasil-tes-online-PAP-angkatan6" style="pointer-events: none;"
@@ -133,14 +94,10 @@
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pemanggilan Peserta Tes Offline
           </button></a>
-        <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
-            Pengumuman Hasil Seleksi
-          </button></a>
-        <!-- <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf"><button type="button"
+        <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf"><button type="button"
             class="btn btn-success btn-lg px-4">
             Pengumuman Hasil Seleksi
-          </button></a> -->
+          </button></a>
         <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button"
             class="btn btn-outline-secondary btn-lg px-4">
             Pengumuman Instagram
