@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-  <?php include ('meta.php'); ?>
+  <?php include('meta.php'); ?>
 </head>
 
 <body>
   <!-- header -->
-  <?php include ('header.php'); ?>
+  <?php include('header.php'); ?>
   <!-- /header -->
 
   <!-- tabel informasi angkatan -->
@@ -24,8 +24,9 @@
             <th scope="col">Angkatan 2</th>
             <th scope="col">Angkatan 3</th>
             <th scope="col">Angkatan 4</th>
-            <th scope="col">Angkatan 5 (Sekarang)</th>
-            <th scope="col">Angkatan 6 (Akan Datang)</th>
+            <th scope="col">Angkatan 5</th>
+            <th scope="col">Angkatan 6</th>
+            <th scope="col">Angkatan 7 (Akan Datang)</th>
           </tr>
         </thead>
         <tbody>
@@ -37,6 +38,7 @@
             <td>Fashion Teknologi (Intensif) (APBD)</td>
             <td>Pengelasan SMAW 6G (Intensif) (APBD)</td>
             <td>Practical Office Advance (APBN)</td>
+            <td>Pemasangan Instalasi Otomasi Listrik Industri (APBD)</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -46,6 +48,7 @@
             <td>Pengoperasian Mesin Produksi (Intensif) (APBD)</td>
             <td>Junior Web Programming (APBD)</td>
             <td>Pengelola Administrasi Perkantoran (APBN)</td>
+            <td>Pembuatan Roti dan Kue (APBD)</td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -55,6 +58,7 @@
             <td>Akuntansi Junior (APBD)</td>
             <td>Tata Rias Kecantikan (APBD)</td>
             <td>Teknisi Telepon Seluler (APBN)</td>
+            <td>Pemeliharaan Kendaraan Ringan Sistem Injeksi (APBD)</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -64,6 +68,7 @@
             <td>Pemasangan Instalasi Listrik Sederhana (APBD)</td>
             <td>Pengoperasian Mesin Bubut (APBN)</td>
             <td>Pemasangan Instalasi Listrik Bangunan Sederhana (APBN)</td>
+            <td>Menjahit Pakaian dengan Mesin (APBD)</td>
           </tr>
           <tr>
             <th scope="row">5</th>
@@ -73,6 +78,7 @@
             <td>Pengelola Administrasi Perkantoran (APBD)</td>
             <td>Practical Office Advance (APBN)</td>
             <td></td>
+            <td>Pengoperasian Mesin Produksi (APBD)</td>
           </tr>
           <tr>
             <th scope="row">6</th>
@@ -82,6 +88,7 @@
             <td>Pembuatan Hiasan Busana dengan Mesin Bordir Manual (APBN)</td>
             <td>Junior Administrative Assistant (APBN)</td>
             <td></td>
+            <td>Plat Welder Pengelasan SMAW 3G</td>
           </tr>
           <tr>
             <th scope="row">7</th>
@@ -91,6 +98,7 @@
             <td></td>
             <td>Servis Sepeda Motor Injeksi (APBN)</td>
             <td></td>
+            <td>Tata Rias Kecantikan</td>
           </tr>
           <tr>
             <th scope="row">8</th>
@@ -239,11 +247,11 @@
   </div>
 
   <!-- kembali -->
-  <?php include ('kembali.php'); ?>
+  <?php include('kembali.php'); ?>
   <!-- /kembali -->
 
   <!-- footer -->
-  <?php include ('footer.php'); ?>
+  <?php include('footer.php'); ?>
   <!-- /footer -->
 </body>
 
