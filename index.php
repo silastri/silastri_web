@@ -30,7 +30,7 @@
   <!-- pendaftaran -->
   <div id="pendaftaran" class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="images/pendaftaran.jpg" alt="Gambar Pendaftaran" />
-    <h2 class="display-5 fw-bold">Pelatihan Gelombang 6 2024</h2>
+    <h2 class="display-5 fw-bold">Pelatihan Gelombang 7 2024</h2>
     <div class="col-lg-6 mx-auto">
       <p class="lead mb-4">
         Pelatihan kerja berbasis kompetensi di UPT BLK Singosari
@@ -45,40 +45,26 @@
           </tr>
         </thead>
         <tbody>
-          <tr class="">
+          <tr class="table-success">
             <th scope="row">1</th>
             <td>Pendaftaran</td>
-            <td>01 - 11 Agustus 2024</td>
+            <td>09 - 13 Oktober 2024</td>
           </tr>
           <tr class="">
             <th scope="row">2</th>
-            <td>Pemanggilan Peserta (Tes Online Kej. PAP)</td>
-            <td>12 Agustus 2024</td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td>Pelaksanaan Tes Online (Tes Online Kej. PAP)</td>
-            <td>13 Agustus 2024</td>
-          </tr>
-          <tr>
-            <th scope="row">4</th>
-            <td>Pemanggilan Peserta (Tes Offline)</td>
-            <td>14 Agustus 2024</td>
-          </tr>
-          <tr class="">
-            <th scope="row">5</th>
             <td>Pelaksanaan Tes Seleksi & Wawancara</td>
-            <td>15 Agustus 2024</td>
+            <td>15 Oktober 2024</td>
           </tr>
-          <tr class="table-success">
-            <th scope="row">6</th>
+          <tr>
+          <tr class="">
+            <th scope="row">3</th>
             <td>Pengumuman Hasil Seleksi</td>
-            <td>19 Agustus 2024</td>
+            <td>16 Oktober 2024</td>
           </tr>
           <tr class="">
-            <th scope="row">7</th>
+            <th scope="row">4</th>
             <td>Registrasi Ulang Peserta</td>
-            <td>20 Agustus 2024</td>
+            <td>17 Oktober 2024</td>
           </tr>
         </tbody>
       </table>
