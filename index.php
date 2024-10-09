@@ -52,25 +52,31 @@
           </tr>
           <tr class="">
             <th scope="row">2</th>
-            <td>Pelaksanaan Tes Seleksi & Wawancara</td>
-            <td>15 Oktober 2024</td>
+            <td>Pemanggilan Peserta Tes</td>
+            <td>14 Oktober 2024</td>
           </tr>
           <tr>
           <tr class="">
             <th scope="row">3</th>
+            <td>Pelaksanaan Tes Seleksi & Wawancara</td>
+            <td>15 Oktober 2024</td>
+          </tr>
+          <tr></tr>
+          <tr class="">
+            <th scope="row">4</th>
             <td>Pengumuman Hasil Seleksi</td>
             <td>16 Oktober 2024</td>
           </tr>
           <tr class="">
-            <th scope="row">4</th>
+            <th scope="row">5</th>
             <td>Registrasi Ulang Peserta</td>
             <td>17 Oktober 2024</td>
           </tr>
         </tbody>
       </table>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <a href="https://forms.gle/pET1h47wY1UWBTgC7" target="_blank" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
+        <a href="https://forms.gle/WNEKksLB7ruceZzj9" target="_blank"><button type="button"
+            class="btn btn-success btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
         <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan6" style="pointer-events: none;"
