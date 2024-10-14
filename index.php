@@ -79,8 +79,8 @@
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan6" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan7"><button type="button"
+            class="btn btn-success btn-lg px-4">
             Pemanggilan Peserta Tes
           </button></a>
         <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf" style="pointer-events: none;"
