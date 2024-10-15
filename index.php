@@ -50,13 +50,13 @@
             <td>Pendaftaran</td>
             <td>09 - 13 Oktober 2024</td>
           </tr>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">2</th>
             <td>Pemanggilan Peserta Tes</td>
             <td>14 Oktober 2024</td>
           </tr>
           <tr>
-          <tr class="">
+          <tr class="table-success">
             <th scope="row">3</th>
             <td>Pelaksanaan Tes Seleksi & Wawancara</td>
             <td>15 Oktober 2024</td>
