@@ -56,13 +56,13 @@
             <td>14 Oktober 2024</td>
           </tr>
           <tr>
-          <tr class="table-success">
+          <tr class="">
             <th scope="row">3</th>
             <td>Pelaksanaan Tes Seleksi & Wawancara</td>
             <td>15 Oktober 2024</td>
           </tr>
           <tr></tr>
-          <tr class="">
+          <tr class="table-success">
             <th scope="row">4</th>
             <td>Pengumuman Hasil Seleksi</td>
             <td>16 Oktober 2024</td>
@@ -79,12 +79,12 @@
           aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
             Daftar disini!
           </button></a>
-        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan7"><button type="button"
-            class="btn btn-success btn-lg px-4">
+        <a target="_blank" href="https://bit.ly/peserta-tes-wawancara-angkatan7" style="pointer-events: none;"
+          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4">
             Pemanggilan Peserta Tes
           </button></a>
-        <a target="_blank" href="../files/PENGUMUMAN_HASIL_TES _APBN_4_PBK_6_2024.pdf" style="pointer-events: none;"
-          aria-disabled="true"><button type="button" class="btn btn-danger btn-lg px-4 gap-3">
+        <a target="_blank" href="../files/PENGUMUMAN HASIL TES  PBK 7 (PAPBD) 2024.pdf"><button type="button"
+            class="btn btn-success btn-lg px-4 gap-3">
             Pengumuman Hasil Seleksi
           </button></a>
         <a target="_blank" href="https://www.instagram.com/blk_singosari/"><button type="button"
